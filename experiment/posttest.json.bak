@@ -1,0 +1,20 @@
+[
+   {
+      "question": "The difference in water levels of two tanks is 11m which are connected by three pipes in series. L1 = 267m, L2 = 167m, L3 = 230m, d1 = 279mm, d2 = 198mm, d3 = 353mm. Take f = 0.005. Find the discharge considering the minor loss. Refer diagram from simulation.",
+      "qid": 1,
+      "option_a": "72.38 l/s",
+      "option_b": "77.2 l/s",
+      "option_c": "75.09 l/s",
+      "option_d": "70.67 l/s",
+      "correct_option": "c"
+   },
+   {
+      "question": "The difference in water levels of two tanks is 13m which are connected by three pipes in series. L1 = 292m, L2 = 160m, L3 = 248m, d1 = 281mm, d2 = 177mm, d3 = 366mm. Take f = 0.005. Find the discharge considering the minor loss. Refer diagram from simulation.",
+      "qid": 2,
+      "option_a": "70.79 l/s",
+      "option_b": "77.87 l/s",
+      "option_c": "73.13 l/s",
+      "option_d": "75.96 l/s",
+      "correct_option": "a"
+   }
+]
